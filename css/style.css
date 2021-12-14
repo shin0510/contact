@@ -1,0 +1,90 @@
+img{
+
+  width: 100%;
+}
+a:hover{
+  opacity: .8;
+}
+html {
+  scroll-behavior: smooth;
+}
+.btn{
+  width: 90%;
+  margin: 0 auto;
+}
+.audio{
+  margin: 5% 0;
+}
+.audio a{
+  display: block;
+  width: 90%;
+  background-color: #000;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 2vw;
+  letter-spacing: 1vw;
+}
+.flow{
+  margin-top: 5%;
+}
+.site{
+  margin-top: 5%;
+}
+.faq div{
+  width: 90%;
+  margin: 5% auto ;
+}
+.faq h3 {
+  border-left: 7px solid #888;
+  border-right: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  font-size: 2.5vw;
+  padding: 12px 20px;
+  font-weight: bold;
+  margin: 2.4em 0 1.6em ;
+}
+.faq p{
+  margin-bottom: 1.8em;
+  font-size: 1.5vw;
+}
+form{
+  width: 90%;
+  margin: 0 auto;
+}
+form p{
+  margin-bottom: 1.8em;
+}
+label {
+  cursor: pointer;
+  font-size: 1.5vw;
+}
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea,
+select {
+  padding: 11px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1.3vw;
+  width: 100%;
+  cursor: pointer;
+}
+input[type="submit"]{
+  border: 1px solid #ccc;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  border-radius: 4px;
+}
