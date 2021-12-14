@@ -10,7 +10,7 @@ html {
 }
 .btn{
   width: 90%;
-  margin: 0 auto;
+  margin: 5% auto;
 }
 .audio{
   margin: 5% 0;
@@ -32,6 +32,12 @@ html {
 }
 .site{
   margin-top: 5%;
+}
+.reward{
+  margin-top: 5%;
+}
+.support{
+  margin-top: 8%;
 }
 .faq div{
   width: 90%;
