@@ -96,7 +96,7 @@ input[type="submit"]{
 }
 .form h2 {
   position: relative;
-  margin: 8% 2% 5%;
+  margin: 9% 0 8%;
   text-align: center;
   font-size: 2.5vw;
 }
@@ -130,5 +130,38 @@ input[type="submit"]{
     padding: 1rem 2rem;
     color: #fff;
     background: #fa4141;
+  }
+  .faq h3 {
+    font-size: 17px;
+    padding: 12px 20px;
+  }
+
+  .faq p {
+    margin-bottom: 1.8em;
+    font-size: 15px;
+    line-height: 23px;
+  }
+  label {
+    cursor: pointer;
+    font-size: 15px;
+  }
+  input[type="text"],
+  input[type="password"],
+  input[type="date"],
+  input[type="datetime"],
+  input[type="email"],
+  input[type="number"],
+  input[type="search"],
+  input[type="tel"],
+  input[type="time"],
+  input[type="url"],
+  textarea,
+  select {
+    padding: 11px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 15px;
+    width: 100%;
+    cursor: pointer;
   }
 }
